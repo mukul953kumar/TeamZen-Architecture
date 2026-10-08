@@ -1,6 +1,6 @@
 # 🏛️ TeamZen System Architecture & Technical Specifications
 
-> **TeamZen** is an AI-powered BTech & college student teammate matching, hackathon squad finder, and campus project collaboration platform.
+> **TeamZen** is a smart BTech & college student teammate matching, project squad finder, and campus collaboration platform.
 > 🌐 **Live Application:** [teamzenconnect.vercel.app](https://teamzenconnect.vercel.app/)
 
 ---
